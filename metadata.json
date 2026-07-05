@@ -1,0 +1,6 @@
+{
+  "name": "SkillJet",
+  "description": "Ghana's Skilled Workers Platform: connect with mechanics, plumbers, electricians, tailors, builders, and get AI-verified local services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
